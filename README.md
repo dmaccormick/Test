@@ -1,3 +1,5 @@
+This project was an assignment for a 3rd year engines class.
+
 Texture References:
 Controller ->  https://thewolfbunny.deviantart.com/art/Xbox-One-Controller-Template-558306289
 Buttons ->  https://opengameart.org/content/free-keyboard-and-controllers-prompts-pack (Some edits were made to DPAD and thumbstick images, most are originals)
