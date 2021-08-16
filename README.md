@@ -1,4 +1,4 @@
-This project was an assignment for a 3rd year engines class.
+This project was an assignment for a 3rd year engines class in 2018.
 
 Texture References:
 Controller ->  https://thewolfbunny.deviantart.com/art/Xbox-One-Controller-Template-558306289
